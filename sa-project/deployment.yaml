@@ -17,7 +17,7 @@ spec:
         app: sa-project
     spec:
       containers:
-      - image: jojo0528/sa-project:1.0
+      - image: jojo0528/sa-project:62
         name: sa-project
         ports:
         - containerPort: 8080
